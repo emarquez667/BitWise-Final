@@ -18,3 +18,23 @@ li{
     margin-right: 120px;
 }
 
+#nav-links{
+    
+}
+
+header {
+    height:25px;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top: 15px;
+    color: #0D1F26;
+}
+
+.hero{
+    height: 350px;
+    width: 100%;
+    background-image: url(http://photodoto.com/wp-content/uploads/2012/08/minimalist-black-and-white-photography-9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
