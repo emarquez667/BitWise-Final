@@ -55,7 +55,90 @@ header {
 .hero{
     height: 350px;
     width: 100%;
-    background-image: url(https://elementarist.com/wp-content/uploads/2016/08/Ftrd_What_is_minimalism-1200x749.jpeg);
+    background-image: url(@import url('https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet');
+/*UNIVERSALS*/
+html, body {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    margin:0;
+    padding:0;
+    font-family: 'Oswald', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+}
+
+#nav-links{
+    float: right;
+    margin-bottom: 0;
+    margin-right: 120px;
+}
+
+#nav-links{
+    padding: 0 10px;
+    border-radius: 5px;
+}
+
+#nav-links li a:hover {
+    color: #fff;
+}
+
+#nav-links li{
+    margin:0 15px;
+    background-color: grey;
+    border-radius: 5px;
+    font-family: 'Oswald', sans-serif;
+    padding: 10px;
+    color: #fff;
+    font-size: 20px;
+}
+
+header {
+    height:22px;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top: 15px;
+    color: #0D1F26;
+}
+
+.hero{
+    height: 350px;
+    width: 100%;
+    background-image: url(http://photodoto.com/wp-content/uploads/2012/08/minimalist-black-and-white-photography-9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+}
+
+#hero-header{
+    text-align: right;
+    top: 300px;
+    position: relative;
+    padding-right: 20px;
+}
+
+main{
+    width: 100%;
+    padding-left: 20px;
+}
+
+#home{
+    padding-left: 16%;
+});
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
