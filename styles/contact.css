@@ -74,15 +74,6 @@ h1{
     padding-right: 0px;
 }
 
-main{
-    width: 100%;
-    padding-left: 0px;
-}
-
-#home{
-    padding-left: 16%;
-}
-
 /*footer styles*/
 footer{
  background-color: grey;
@@ -99,8 +90,20 @@ footer{
 
 #copyright{
     text-align:center;
+    font-size: 20px;
 }
 
 .fa{
     font-size: 24px;
+}
+
+#iframe-wrapper{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    padding-left: 50px;
+}
+
+#iframe-wrapper {
+    border: 6px solid black;
 }
