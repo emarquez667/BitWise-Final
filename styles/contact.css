@@ -55,7 +55,7 @@ header {
 .hero{
     height: 350px;
     width: 100%;
-    background-image: url(http://photodoto.com/wp-content/uploads/2012/08/minimalist-black-and-white-photography-9.jpg);
+    background-image: url(http://campfirecollective.co/wp-content/uploads/2015/11/why-you-need-a-newsletter-fb.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -79,12 +79,8 @@ main{
     padding-left: 0px;
 }
 
-p{
-    padding-left: 370px;
-}
-
 #home{
-    padding-left: 25%;
+    padding-left: 16%;
 }
 
 /*footer styles*/
