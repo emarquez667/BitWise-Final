@@ -80,7 +80,8 @@ main{
 }
 
 p{
-    padding-left: 370px;
+    padding-left: 195px;
+    padding-right: 195px;
 }
 
 #home{
@@ -107,5 +108,5 @@ footer{
 }
 
 .fa{
-    font-size: 24px;
+    font-size: 32px;
 }

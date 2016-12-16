@@ -79,6 +79,10 @@ main{
     padding-left: 0px;
 }
 
+p{
+    padding-left: 350px;
+}
+
 #home{
     padding-left: 16%;
 }
@@ -95,13 +99,19 @@ footer{
 #social-media{
     text-align: center;
     padding-top: 4px;
+    padding: 0 20px;
+}
+
+#social-media a{
+    margin: 1%;
 }
 
 #copyright{
     text-align:center;
     font-size: 20px;
+    
 }
 
 .fa{
-    font-size: 24px;
+    font-size: 32px;
 }
